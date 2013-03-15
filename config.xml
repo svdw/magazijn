@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns = "http://www.w3.org/ns/widgets"
-        xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "com.phonegap.hello-world"
-        version = "2.0.0">
+<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.phonegap.artikelenbeheersysteem" version = "1.0.0">
  
     <name>Artikelenbeheersysteem</name>
  
@@ -20,7 +17,6 @@
 	
 	<gap:plugin name="BarcodeScanner" />
 	
-	<icon src="icon.png" />
     <icon src="res/icon/android/icon-36.png" gap:platform="android" gap:density="ldpi" />
     <icon src="res/icon/android/icon-48.png" gap:platform="android" gap:density="mdpi" />
     <icon src="res/icon/android/icon-72.png" gap:platform="android" gap:density="hdpi" />
